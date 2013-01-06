@@ -1,0 +1,3 @@
+Fri Mar  5 15:24:24 2010 : [  507] pies piesek azor: l: 2/2/0 xp: 97/97 mod: 100/100
+Fri Mar  5 15:31:47 2010 : [  501] Builder: l: 40/40/0 xp: 3175/3175 mod: 100/100
+Fri Mar  5 15:32:25 2010 : [  501] Builder: l: 40/40/0 xp: 9300/10462 mod: 100/100

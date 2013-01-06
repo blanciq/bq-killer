@@ -1,0 +1,255 @@
+#HELPS
+-1 bartmandal~
+Kraina ta to opuszczona posiad³o¶æ Lorda Bartmana, jedna z najstarszych
+krain na tym ¦wiecie. Jest ona aktualnie opanowana przez Ciemne Moce,
+dlatego mo¿ecie siê spodziewaæ w niej ró¿norakich upiorów, banshee i innych
+z³ych stworów. Quest dostêpny w tej krainie zaczyna siê niedaleko, w ¦wiêtej
+Górze, dawany przez Lorda Bartmana we w³asnej osobie.
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+The New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen, Adam Debus and especially Gary Turkington
+    (author of the ROM FAQ) for help spotting bugs
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+
+-1 www~
+Oficjalna strona WWW muda:
+{Rhttp://www.killer-mud.net/{x
+Forum muda:
+{Ghttp://forum.killer-mud.net/{x
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and
+ftp.math.okstate.edu.
+E-mail to 'majordomo@webnexus.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+Also see "help ROM" for information about the Rivers of Mud code base.
+~
+
+-1 GREETING~
+.
+                   .:'           K I L L E R           `:.
+                  ::'                                   `::
+                 :: :.     < killer.mud.pl 4000 >     .: ::
+                 `:. `:.              .            .:'  .:'
+                   `::. `::           !           ::' .::'
+                       `::.`::.    .' ! `.    .::'.::'
+ Original DikuMUD        `:.  `::::'':!:``::::'   ::'
+ by Hans Staerfeldt,     :'*:::.  .:' ! `:.  .:::*`:
+ Katja Nyboe,           :: ###::.   ` ! '   .::### ::
+ Tom Madsen,           ::: #####::.  `!'  .::##### :::
+ Michael Seifert,      ::..  #####:`:   :':#####  ..::
+ and Sebastian Hammer  `::      ##: `. .' :##      ::'
+                         `:. .   :         :   . .:'
+  Based on MERC 2.1        `::'               `::'  strona:
+  code by Hatchet,           :'  .`.  .  .'.  `:    http://www.killer.mud.pl/
+  Furey, and Kahn            :' ::.       .:: `: 
+                             :' `:::     :::' `:    forum:
+   ROM 2.4 copyright          `.  ``     ''  .'     http://forum.mud.pl/
+   (c) 1993-1998               :`...........':
+   Russ Taylor                 ` :`.     .': '
+                                `:  `"""'  :'
+
+
+Podaj swoje imie:
+~
+
+-1 MOTD~
+* Witaj na naszym mudzie. Jest to mocno zmodyfikowany DIKU stworzony
+  z mysla o doswiadczonych graczach. O historii naszego swiata mozesz
+  poczytac wpisujac komende 'story' ('historia').
+  
+* Zabijanie, okradanie graczy nie jest zakazane. Zabronione jedynie
+  jest granie na raz wiecej niz jedna postacia oraz wykorzystywanie
+  wszelkich bugow bez zglaszania ich BOGOM. W obu przypadkach kara jest
+  jedna - skasowanie postaci bez zadnego ostrzezenia. Dokladna lista
+  zasad dostepna jest po wpisaniu komendy 'rules' ('zasady').
+
+* Mud posiada wlasna strone WWW -> www.killer-mud.net oraz forum dyskusyjne
+  forum.killer-mud.net
+
+* Jesli uznasz ze chcesz nam pomoc piszac krainy, badz robic cos rownie
+  pozytecznego zajrzyj napisz na forum muda lub na adres 
+  <support@killer-mud.net>.
+
+* Zyczymy przyjemnej gry.
+~
+
+32 CLONE~
+Syntax:
+  clone obj <object>
+  clone mob <mobile>
+  clone <name>
+
+The clone command duplicates an object or mobile.  The level of item or mobile
+that may be cloned depends on your level.  The target object or mob must be in
+the same room as you, or in your posession.  Strung and set information is
+preserved by clone, as well as any spell effects and container contents or
+mobile inventory, except for items which are too high for you to clone.
+Strung extended descriptions on objects are not kept, however.
+~
+
+-1 SKILLS SPELLS UMIEJÊTNO¦CI ZAKLÊCIA~
+Sk³adnia: {Gskills{x
+{G          skills{x [poziom minimalny] [poziom maksymalny]
+          {Gspells{x
+{G          spells <nazwa_zaklecia>{x
+
+Komendy te s± u¿ywane do wy¶wietlenia listy umiejêtno¶ci oraz zaklêæ, które
+umie twoja postaæ. Zaklêcia wy¶wietlone s± w kolejno¶ci krêgów magii, na
+którym dany czar siê znajduje. Kolejno¶æ wy¶wietlania umiejêtno¶ci zale¿y
+od poziomu do¶wiadczenia, na którym s± dostêpne. Przy ka¿dej umiejêtno¶ci
+wy¶wietlony jest stopieñ jej wytrenowania.
+
+Dodatkowo, je¶li wytrenowali¶my jak±¶ umiejêtno¶æ w czasie jej u¿ywania
+to przy stopniu jej wytrenowania w li¶cie pojawi siê znak +. Oznacza to,
+¿e mo¿emy poduczyæ siê tej umiejêtno¶ci u nauczyciela.
+
+Komenda 'spells <nazwa_zaklecia> wy¶wietla poznane przez nas komponenty,
+które mog± byæ przydatne przy rzucaniu zaklêcia.
+
+Polski odpowiednik: {Mumiejêtno¶ci{x {Mzaklêcia{x
+Zobacz tak¿e help: {Ymemorize{x {Ylearn{x
+~
+
+-1 clan klan klany clans~
+{RKLANY{x
+
+Klan to oficjalna organizacja, w sk³ad której wchodzi zazwyczaj
+kilka lub klikana¶cie osób. Klan posiada najczê¶ciej sw± siedzibê.
+Cech± charakterystyczn± dla cz³onków danego klanu jest posiadanie
+specjalnego dopisku na li¶cie {Gwho{x.
+
+Wiêcej o klanach mo¿na dowiedzieæ siê na oficjalnej stronie muda:
+{Rhttp://www.killer-mud.net/{x
+ 
+Do wy¶wietlenia listy klanów s³u¿y komenda: {Gclans{x.
+~
+
+-1 AFFECTS~
+Sk³adnia: {Gaffects{x
+
+Komenda pokazuje listê czarów jakie aktualnie dzia³aj± na ciebie z krótk±
+informacj± o dzia³aniu czaru i czasie trwania.
+
+Polski odpowiednik: {Mafekty{x
+~
+
+-1 CLOTHING ARMOR ZBROJA UBRANIE~
+W tym ¶wiecie spotkasz dwa podstawowe typy rzeczy, które bêd± okrywaæ
+twoje cia³o: ubrania i zbroje. Ubrania nie posiadaj± ¿adnych ogólnych
+ograniczeñ i generalnie ka¿dy mo¿e je nosiæ. Sprawa zbroi jest bardziej
+zawi³a, mianowicie: to jaka zbroje mo¿esz nosiæ zale¿y od twojej rasy
+i profesji. Ograniczenia rasowe nie s± usystematyzowane ale logika
+podpowiada, ze je¿eli nie mo¿esz za³o¿yæ zbroi zdobytej na krasnoludzie,
+samemu nie bêd±c krasnoludem ani gnomem, to nie nale¿y tego zg³aszaæ
+jako b³±d, zbroja po prostu bêdzie na ciebie za ma³a.
+Co do ograniczeñ profesji to krotka lista wystêpuj±cych u nas typów
+zbroi wraz z profesjami które NIE MOGA ich zak³adaæ:
+Dostêpne typy zbroi:
+NAZWA                Profesje, dla których jest niedostêpna
+Pikowana
+Skórzana              Mag
+Æwiekowana skórzana   Mag Z³odziej
+Naszywanica           Mag Z³odziej Mnich
+£uskowa               Mag Z³odziej Mnich
+Przeszywanica         Mag Z³odziej Mnich
+Skory zwierzêce       Mag Mnich
+Lekka kolczuga        Mag Z³odziej Mnich
+Zwyk³a kolczuga       Mag Z³odziej Mnich
+Paskowa               Mag Z³odziej Barbarzyñca Mnich
+Pancerz z br±zu       Mag Z³odziej Barbarzyñca Mnich
+Wzmacniana skórzana   Mag Z³odziej Barbarzyñca Mnich
+Pó³p³ytowa            Mag Z³odziej Barbarzyñca Mnich
+Pó³p³ytowa wzmacniana Mag Z³odziej Barbarzyñca Mnich
+P³ytowa               Mag Z³odziej Barbarzyñca Mnich
+P³ytowa wzmacniana    Mag Z³odziej Barbarzyñca Mnich
+
+To tylko ogólne za³o¿enia i nierzadko siê zdarzy, ze bêdzie gdzie¶ zbroja
+skórzana tylko dla z³odziei i inne tego typu wyj±tki, jak równie¿ nie ka¿dy
+pancerz z br±zu bêdzie z br±zu akurat ale to takie ogólne typy najlepiej
+obrazuj±ce typ noszonej zbroi.
+~
+
+-1 $~
+
+#$

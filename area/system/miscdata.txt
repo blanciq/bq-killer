@@ -1,0 +1,7 @@
+CopyPeriod         86400
+WorldTime          613840
+LogAll             0
+LogComm            1
+NewLock            0
+WizLock            0
+$
