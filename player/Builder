@@ -1,0 +1,617 @@
+#PLAYER
+Name Builder~
+Todelete 0
+Odmiana Buildera~Builderowi~Buildera~Builderem~Builderze~
+Id   953816788
+LogO 1253689264
+Rent 0
+Vers 6
+Prom <%h/%Hhp %v/%Vmv> ~
+Race elf~
+Sex  1
+Class  3
+Spec  100
+Levl 40
+HitGains 40 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Sec  9
+Plyd 5386296
+Not  981741357 0 0 1003950341 0
+Scro 28
+WizGr CDEFGH
+Room 599
+HV  281 281 10000 10000
+HW 184 687
+Money 0 0 102 0 0
+Exp  5650938
+ActExt  1|DIKT
+Counter 0 0 0 0
+Counter2 1 0
+Affected 0|J
+Comm NO
+Wizn ACDELMNOR
+WizCfg AG
+Pos  8
+Alig  0
+ACs 100 100 100 100
+ANewStat 78 78 78 78 78 78 78
+AModNewStat 0 0 0 0 0 0 0
+AttrNew 19 13 16 9 10 13 13
+AModNew 0 0 0 0 0 0 0
+SIknows 0 0 0 0 0 0 0 0 0 0 
+Pass builder~
+Speaking 19
+Titl  ~
+Ignore ~
+Pnts 67
+TSex 1
+LLev 1490
+HMVP 281 0 10000
+Cnd_NEW  0 32 27 0 48
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017 000 00-1773772218
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+Colourh     006 016 006 016
+LastHost 127.0.0.1~
+Sk 100 'reserved' 0
+Sk 100 'acid blast' 0
+Sk 100 'armor' 0
+Sk 100 'bless' 0
+Sk 100 'purify food' 0
+Sk 100 'blindness' 0
+Sk 100 'burning hands' 0
+Sk 100 'call lightning' 0
+Sk 100 'calm' 0
+Sk 100 'cancellation' 0
+Sk 100 'cause critical' 0
+Sk 100 'cause light' 0
+Sk 100 'cause moderate' 0
+Sk 100 'chain lightning' 0
+Sk 100 'change sex' 0
+Sk 100 'charm person' 0
+Sk 100 'chill touch' 0
+Sk 100 'colour spray' 0
+Sk 100 'continual light' 0
+Sk 100 'control weather' 0
+Sk 100 'create food' 0
+Sk 100 'transmute staff' 0
+Sk 100 'create spring' 0
+Sk 100 'create water' 0
+Sk 100 'light' 0
+Sk 100 'cure blindness' 0
+Sk 100 'cure critical' 0
+Sk 100 'cure disease' 0
+Sk 100 'cure light' 0
+Sk 100 'cure poison' 0
+Sk 100 'cure moderate' 0
+Sk 100 'curse' 0
+Sk 100 'detect evil' 0
+Sk 100 'detect good' 0
+Sk 100 'detect hidden' 0
+Sk 100 'detect invis' 0
+Sk 100 'detect magic' 0
+Sk 100 'detect poison' 0
+Sk 100 'dispel evil' 0
+Sk 100 'dispel good' 0
+Sk 100 'dispel magic' 0
+Sk 100 'earthquake' 0
+Sk 100 'enchant armor' 0
+Sk 100 'enchant weapon' 0
+Sk 100 'energy drain' 0
+Sk 100 'faerie fire' 0
+Sk 100 'faerie fog' 0
+Sk 100 'farsight' 0
+Sk 100 'fireball' 0
+Sk 100 'fireproof' 0
+Sk 100 'flamestrike' 0
+Sk 100 'pyrotechnics' 0
+Sk 100 'float' 0
+Sk 100 'floating disc' 0
+Sk 100 'spiritual armor' 0
+Sk 100 'spiritual hammer' 0
+Sk 100 'flame blade' 0
+Sk 100 'gate' 0
+Sk 100 'giant strength' 0
+Sk 100 'harm' 0
+Sk 100 'haste' 0
+Sk 100 'heal' 0
+Sk 100 'heat metal' 0
+Sk 100 'identify' 0
+Sk 100 'infravision' 0
+Sk 100 'invisibility' 0
+Sk 100 'undead invisibility' 0
+Sk 100 'animal invisibility' 0
+Sk 100 'know alignment' 0
+Sk 100 'lightning bolt' 0
+Sk 100 'locate object' 0
+Sk 100 'magic missile' 0
+Sk 100 'mass healing' 0
+Sk 100 'mass invis' 0
+Sk 100 'nexus' 0
+Sk 100 'pass door' 0
+Sk 100 'plague' 0
+Sk 100 'poison' 0
+Sk 100 'portal' 0
+Sk 100 'protection evil' 0
+Sk 100 'protection good' 0
+Sk 100 'ray of truth' 0
+Sk 100 'recharge' 0
+Sk 100 'refresh' 0
+Sk 100 'remove curse' 0
+Sk 100 'sanctuary' 0
+Sk 100 'regenerate' 0
+Sk 100 'shield' 0
+Sk 100 'shocking grasp' 0
+Sk 100 'sleep' 0
+Sk 100 'slow' 0
+Sk 100 'stone skin' 0
+Sk 100 'mirror image' 0
+Sk 100 'blur' 0
+Sk 100 'summon' 0
+Sk 100 'teleport' 0
+Sk 100 'weaken' 0
+Sk 100 'word of recall' 0
+Sk 100 'finger of death' 0
+Sk 100 'elemental devastation' 0
+Sk 100 'reverse gravity' 0
+Sk 100 'gas breath' 0
+Sk 100 'lightning breath2' 0
+Sk 100 'axe' 1024
+Sk 100 'dagger' 1024
+Sk 100 'flail' 1024
+Sk 100 'mace' 1024
+Sk 100 'polearm' 1024
+Sk 100 'staff' 1024
+Sk 100 'shield block' 1024
+Sk 100 'spear' 1024
+Sk 100 'sword' 1024
+Sk 100 'whip' 1024
+Sk 100 'backstab' 1024
+Sk 100 'bash' 1024
+Sk 100 'berserk' 1024
+Sk 100 'disarm' 1024
+Sk 100 'dodge' 1024
+Sk 100 'envenom' 1024
+Sk 100 'kick' 1024
+Sk 100 'parry' 1024
+Sk 100 'rescue' 1024
+Sk 100 'trip' 1024
+Sk 100 'riding' 1024
+Sk 100 'hide' 1024
+Sk 100 'lore item' 1024
+Sk 100 'meditation' 1024
+Sk 100 'peek' 1024
+Sk 100 'pick lock' 1024
+Sk 100 'sneak' 1024
+Sk 100 'steal' 1024
+Sk 100 'circle' 1024
+Sk 100 'track' 1024
+Sk 100 'summon animal' 0
+Sk 100 'change staff' 0
+Sk 100 'liveoak' 0
+Sk 100 'stability' 0
+Sk 100 'hold person' 0
+Sk 100 'confusion' 0
+Sk 100 'command' 0
+Sk 100 'hold animal' 0
+Sk 100 'hold monster' 0
+Sk 100 'hold plant' 0
+Sk 100 'resist fire' 0
+Sk 100 'energy shield' 0
+Sk 100 'resist cold' 0
+Sk 100 'resist lightning' 0
+Sk 100 'resist magic' 0
+Sk 100 'brave cloak' 0
+Sk 100 'silence' 0
+Sk 100 'bark skin' 0
+Sk 100 'aid' 0
+Sk 100 'chant' 0
+Sk 100 'first aid' 0
+Sk 100 'exile' 0
+Sk 100 'revive' 0
+Sk 100 'entangle' 0
+Sk 100 'goodbarry' 0
+Sk 100 'waterwalk' 0
+Sk 100 'water breathing' 0
+Sk 100 'prayer' 0
+Sk 100 'free action' 0
+Sk 100 'remove paralysis' 0
+Sk 100 'force bolt' 0
+Sk 100 'lay' 1024
+Sk 100 'shoot' 1024
+Sk 100 'spray of thorns' 0
+Sk 100 'strength' 0
+Sk 100 'web' 0
+Sk 100 'deafness' 0
+Sk 100 'mend' 0
+Sk 100 'hold undead' 0
+Sk 100 'fear' 0
+Sk 100 'charge' 1024
+Sk 100 'darkness' 0
+Sk 100 'resist acid' 0
+Sk 100 'resist normal weapon' 0
+Sk 100 'resist magic weapon' 0
+Sk 100 'resist elements' 0
+Sk 100 'lesser magic resist' 0
+Sk 100 'fireshield' 0
+Sk 100 'iceshield' 0
+Sk 100 'reflect spell I' 0
+Sk 100 'reflect spell II' 0
+Sk 100 'reflect spell III' 0
+Sk 100 'cone of cold' 0
+Sk 100 'lore self' 0
+Sk 100 'twohanded weapon' 0
+Sk 100 'short-sword' 0
+Sk 100 'sharpen' 0
+Sk 100 'recuperate' 0
+Sk 100 'bladethirst' 0
+Sk 100 'acid hands' 0
+Sk 100 'fire darts' 0
+Sk 100 'frost hands' 0
+Sk 100 'cold snap' 0
+Sk 100 'energize' 0
+Sk 100 'healing sleep' 0
+Sk 100 'ethereal armor' 0
+Sk 100 'domination' 0
+Sk 100 'increase wounds' 0
+Sk 100 'ray of enfeeblement' 0
+Sk 100 'flame arrow' 0
+Sk 100 'minor globe of invulnerability' 0
+Sk 100 'globe of invulnerability' 0
+Sk 100 'wardance' 0
+Sk 100 'playerdeath' 0
+Sk 100 'playerdeath penalty' 0
+Sk 100 'stun' 0
+Sk 100 'flare' 0
+Sk 100 'dualwield style' 0
+Sk 100 'twohanded weapon style' 0
+Sk 100 'charm monster' 0
+Sk 100 'comprehend languages' 0
+Sk 100 'power word blind' 0
+Sk 100 'power word kill' 0
+Sk 100 'power word stun' 0
+Sk 100 'dimension door' 0
+Sk 100 'neutralize poison' 0
+Sk 100 'slow poison' 0
+Sk 100 'bandage' 0
+Sk 100 'detect traps' 0
+Sk 100 'disarm traps' 0
+Sk 100 'target' 0
+Sk 100 'smite evil' 0
+Sk 100 'lesser restoration' 0
+Sk 100 'restoration' 0
+Sk 100 'vampiric touch' 0
+Sk 100 'feeblemind' 0
+Sk 100 'divine favor' 0
+Sk 100 'divine power' 0
+Sk 100 'animate dead' 0
+Sk 100 'odwodnienie' 0
+Sk 100 'zaglodzenie' 0
+Sk 100 'turn undead' 0
+Sk 100 'dagger mastery' 0
+Sk 100 'power strike' 0
+Sk 100 'critical strike' 0
+Sk 100 'damage reduction' 0
+Sk 100 'sunscorch' 0
+Sk 100 'alicorn lance' 0
+Sk 100 'produce fire' 0
+Sk 100 'bane' 0
+Sk 100 'inspire' 0
+Sk 100 'darkvision' 0
+Sk 100 'storm shell' 0
+Sk 100 'chill metal' 0
+Sk 100 'charm animal' 0
+Sk 100 'adrenaline rush' 0
+Sk 100 'unarmed strike' 0
+Sk 100 'healing hands' 0
+Sk 100 'flurry of blows' 0
+Sk 100 'monk dodge' 0
+Sk 100 'concentration' 0
+Sk 100 'knockdown' 0
+Sk 100 'stunning fist' 0
+Sk 100 'blade barrier' 0
+Sk 100 'raise zombie' 0
+Sk 100 'immolate' 0
+Sk 100 'shadow weapon' 0
+Sk 100 'herbs knowledge' 0
+Sk 100 'freezing rain' 0
+Sk 100 'animal rage' 0
+Sk 100 'burst of flame' 0
+Sk 100 'burst of fire' 0
+Sk 100 'endure fire' 0
+Sk 100 'endure cold' 0
+Sk 100 'endure acid' 0
+Sk 100 'endure lightning' 0
+Sk 100 'smashing wave' 0
+Sk 100 'luck' 0
+Sk 100 'cure serious' 0
+Sk 100 'cause serious' 0
+Sk 100 'mace mastery' 0
+Sk 100 'hold evil' 0
+Sk 100 'divine shield' 0
+Sk 100 'magic fang' 0
+Sk 100 'raise ghoul' 0
+Sk 100 'raise ghast' 0
+Sk 100 'devour' 0
+Sk 100 'orb of entropy' 0
+Sk 100 'might' 0
+Sk 100 'mighty blow' 0
+Sk 100 'frost rift' 0
+Sk 100 'spirit armor' 0
+Sk 100 'create symbol' 0
+Sk 100 'slow rot' 0
+Sk 100 'champion strength' 0
+Sk 100 'life transfer' 0
+Sk 100 'mass bless' 0
+Sk 100 'mass luck' 0
+Sk 100 'misfortune' 0
+Sk 100 'lower resistance' 0
+Sk 100 'trapper' 0
+Sk 100 'force missiles' 0
+Sk 100 'thunder bolt' 0
+Sk 100 'lava bolt' 0
+Sk 100 'hellfire' 0
+Sk 100 'ice bolt' 0
+Sk 100 'major haste' 0
+Sk 100 'wind shield' 0
+Sk 100 'consecrate' 0
+Sk 100 'desecrate' 0
+Sk 100 'daze' 0
+Sk 100 'summon lesser meteor' 0
+Sk 100 'eyes of the torturer' 0
+Sk 100 'ghoul touch' 0
+Sk 100 'transmute liquid' 0
+Sk 100 'change liquid' 0
+Sk 100 'decay' 0
+Sk 100 'horrid wilting' 0
+Sk 100 'unholy fury' 0
+Sk 100 'protection from summon' 0
+Sk 100 'create lesser illusion' 0
+Sk 100 'create greater illusion' 0
+Sk 100 'mass fly' 0
+Sk 100 'ray of light' 0
+Sk 100 'embalm' 0
+Sk 100 'crush' 0
+Sk 100 'tail' 0
+Sk 100 'soul trap' 0
+Sk 100 'garhal symbiosis' 0
+Sk 100 'summon insect' 0
+Sk 100 'summon greenskin' 0
+Sk 100 'summon flying creature' 0
+Sk 100 'summon strong creature' 0
+Sk 100 'summon ancient creature' 0
+Sk 100 'summon greater meteor' 0
+Sk 100 'razorblade hands' 0
+Sk 100 'steel scarfskin' 0
+Sk 100 'beast claws' 0
+Sk 100 'energy strike' 0
+Sk 100 'eye of vision' 0
+Sk 100 'listen' 0
+Sk 100 'dancing lights' 0
+Sk 100 'holy weapons' 0
+Sk 100 'persuasion' 0
+Sk 100 'ocarina' 0
+Sk 100 'flute' 0
+Sk 100 'lute' 0
+Sk 100 'harp' 0
+Sk 100 'mandolin' 0
+Sk 100 'piano' 0
+Sk 100 'music' 0
+Sk 100 'trade' 0
+Sk 100 'lore intuition' 0
+Sk 100 'alter instrument' 0
+Sk 100 'enchant instrument' 0
+Sk 100 'tune' 0
+Sk 100 'wind charger' 0
+Sk 100 'firefly swarm' 0
+Sk 100 'floating skull' 0
+Sk 100 'hallucinations' 0
+Sk 100 'spiritual light' 0
+Sk 100 'dismiss animal' 0
+Sk 100 'confusion shell' 0
+Sk 100 'perfect self' 0
+Sk 100 'create tree' 0
+Sk 100 'detect aggressive' 0
+Sk 100 'animate staff' 0
+Sk 100 'force field' 0
+Sk 100 'fly' 0
+Sk 100 'noble look' 0
+Sk 100 'resist weapon' 0
+Sk 100 'absolute magic protection' 0
+Sk 100 'major globe of invulnerability' 0
+Sk 100 'mantle' 0
+Sk 100 'ring of vanion' 0
+Sk 100 'circle of vanion' 0
+Sk 100 'heal animal' 0
+Sk 100 'corrode' 0
+Sk 100 'puppet master' 0
+Sk 100 'dismiss insect' 0
+Sk 100 'dismiss person' 0
+Sk 100 'dismiss monster' 0
+Sk 100 'dismiss undead' 0
+Sk 100 'nature curse' 0
+Sk 100 'spalenie' 0
+Sk 100 'loyalty' 0
+Sk 100 'repayment' 0
+Sk 100 'maze' 0
+Sk 100 'flail mastery' 0
+Sk 100 'sword mastery' 0
+Sk 100 'axe mastery' 0
+Sk 100 'whip mastery' 0
+Sk 100 'short-sword mastery' 0
+Sk 100 'polearm mastery' 0
+Sk 100 'staff mastery' 0
+Sk 100 'nondetection' 0
+Sk 100 'spear mastery' 0
+Sk 100 'antimagic manacles' 0
+Sk 100 'great dispel magic' 0
+Sk 100 'deflect wounds' 0
+Sk 100 'imbue with element' 0
+Sk 100 'gsn_yell' 0
+Sk 100 'psionic blast' 0
+Sk 100 'astral journey' 0
+Sk 100 'wood master' 0
+Sk 100 'stone master' 0
+Sk 100 'healing ring' 0
+Sk 100 'resist poison' 0
+Sk 100 'wizard eye' 0
+Sk 100 'loop' 0
+Sk 100 'piercing sight' 0
+Sk 100 'acid arrow' 0
+Sk 100 'slippery floor' 0
+Sk 100 'detect undead' 0
+Sk 100 'confuse languages' 0
+Sk 100 'wall of mist' 0
+Sk 100 'alarm' 0
+Sk 100 'singing ruff' 0
+Sk 100 'shapeshift' 0
+Sk 100 'summon distortion' 0
+Sk 100 'banshee`s howl' 0
+Sk 100 'blink' 0
+Sk 100 'remove fear' 0
+Sk 100 'shadow conjuration' 0
+Sk 100 'fetch' 0
+Sk 100 'hardiness' 0
+Sk 100 'draining hands' 0
+Sk 100 'magic hands' 0
+Sk 100 'mirrorfall' 0
+Sk 100 'torment' 0
+Sk 100 'overwhelming strike' 0
+Sk 100 'cleave' 0
+Sk 100 'demon aura' 0
+Sk 100 'vertical slash' 0
+Sk 100 'damn weapon' 0
+Sk 100 'damn armor' 0
+Sk 100 'smite good' 0
+Sk 100 'call avatar' 0
+Sk 100 'hustle' 0
+Sk 100 'control undead' 0
+Sk 100 'undead resemblance' 0
+Sk 100 'bleeding wound' 0
+Sk 100 'mental barrier' 0
+Sk 100 'basic shapeshift' 0
+Sk 100 'healing touch' 0
+Sk 100 'defense curl' 0
+Sk 100 'shillelagh' 0
+Sk 100 'perfect senses' 0
+Sk 100 'cautious sleep' 0
+Sk 100 'mind fortess' 0
+Sk 100 'fortitude' 0
+Sk 100 'holy prayer' 0
+Sk 100 'last prayer' 0
+Sk 100 'sanctification' 0
+Sk 100 'sacre group' 0
+Sk 100 'deeds pool' 0
+Sk 100 'holy pool' 0
+Sk 100 'lore undead' 0
+Sk 100 'sense life' 0
+Sk 100 'shield of nature' 0
+Sk 100 'thigh_jab' 0
+Sk 100 'noob_killer' 0
+Sk 100 'weapon_wrench' 0
+Sk 100 'bonelace' 0
+Sk 100 'heal plant' 0
+Sk 100 'dismiss plant' 0
+Sk 100 'aura of protection' 0
+Sk 100 'aura of precision' 0
+Sk 100 'aura of endurance' 0
+Sk 100 'aura of battle lust' 0
+Sk 100 'aura of improved healing' 0
+Sk 100 'aura of vigor' 0
+Sk 100 'glorious_impale' 0
+Sk 100 'fury of the wild' 0
+Sk 100 'shadow swarm' 0
+Sk 100 'group unity' 0
+Sk 100 'share fitness' 0
+Sk 100 'dazzling flash' 0
+Sk 100 'brainwash' 0
+Sk 100 'spiritual weapon' 0
+Sk 100 'holy bolt' 0
+Sk 100 'flame lace' 0
+Sk 100 'rain of blades' 0
+Sk 100 'chaotic shock' 0
+Sk 100 'psychic scream' 0
+Sk 100 'bull strength' 0
+Sk 100 'cat grace' 0
+Sk 100 'owl wisdom' 0
+Sk 100 'fox cunning' 0
+Sk 100 'bear endurance' 0
+Sk 100 'eagle splendor' 0
+Sk 100 'nimbleness' 0
+Sk 100 'draconic wisdom' 0
+Sk 100 'insight' 0
+Sk 100 'behemot toughness' 0
+Sk 100 'inspiring presence' 0
+Sk 100 'mind strike' 0
+Sk 100 'mind blast' 0
+Sk 100 'nature ally I' 0
+Sk 100 'nature ally II' 0
+Sk 100 'nature ally III' 0
+Sk 100 'nature ally IV' 0
+Sk 100 'cure animal' 0
+Sk 100 'reinvigore animal' 0
+Sk 100 'cure plant' 0
+Sk 100 'reinvigore plant' 0
+Sk 100 'bark guardian' 0
+Sk 100 'wildthorn' 0
+Sk 100 'mass refresh' 0
+Sk 100 'create healing water' 0
+Sk 100 'doom' 0
+Sk 100 'mining' 0
+Sk 100 'gsn_art_destroy' 0
+Sk 100 'fire breath' 0
+Sk 100 'frost breath' 0
+Sk 100 'acid breath' 0
+Sk 100 'slam' 0
+Sk 100 'invoke spirit' 0
+Sk 100 'spirit of vision' 0
+Sk 100 'subdue spirits' 0
+Sk 100 'spirit walk' 0
+Sk 100 'healing salve' 0
+Sk 100 'seal of weakness' 0
+Sk 100 'ancestors wisdom' 0
+Sk 100 'ancestors protection' 0
+Sk 100 'ancestors favor' 0
+Sk 100 'ancestors vision' 0
+Sk 100 'ancestors fury' 0
+Sk 100 'dismiss outsider' 0
+Sk 100 'spirit shackle' 0
+Sk 100 'spirit of life' 0
+Sk 100 'breath of life' 0
+Sk 100 'spiritual guidance' 0
+Sk 100 'seal of doom' 0
+Lang 'wspolny' 100
+Lang 'elfi' 100
+Lang 'krasnoludzki' 100
+Lang 'pixie' 100
+Lang 'ogre' 100
+Lang 'orcish' 100
+Lang 'trollish' 100
+Lang 'rodent' 100
+Lang 'insectoid' 100
+Lang 'mammal' 100
+Lang 'reptile' 100
+Lang 'dragon' 100
+Lang 'spiritual' 100
+Lang 'magical' 100
+Lang 'goblin' 100
+Lang 'god' 100
+Lang 'ancient' 100
+Lang 'halfling' 100
+Lang 'gith' 100
+Lang 'telepatic' 100
+Pflag reg4025 10~
+Pflag bylw1753 -1~
+Pflag bylw1775 -1~
+Pflag dupa -1~
+Death_stats 2 0 2 0 0
+RollsCount 0
+RollsCountNew 0
+Age 71
+Glory 0
+End
+
+#END
