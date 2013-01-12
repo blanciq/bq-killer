@@ -8645,49 +8645,55 @@ void do_double_grip( CHAR_DATA *ch, char *argument )
 {
 	char arg [MAX_INPUT_LENGTH];
 	OBJ_DATA *obj;
+        OBJ_DATA *weapon;
 
     argument = one_argument( argument, arg );
 
+    if ( arg[ 0 ] == '\0' && ( weapon = get_eq_char ( ch, WEAR_WIELD ) ) == NULL)
+    {
+            send_to_char( "Któr± broñ chcesz chwyciæ w obie rêce?\n\r", ch );
+            return;
+    }
+    
+    if ( arg[ 0 ] == '\0' && ( obj = get_obj_carry( ch, arg, ch ) ) == NULL )
+    {
+            send_to_char( "Nie masz takiej rzeczy.\n\r", ch );
+            return;
+    }
+    
     if ( arg[ 0 ] == '\0' )
-	{
-		send_to_char( "Któr± broñ chcesz chwyciæ w obie rêce?\n\r", ch );
-		return;
-	}
+    {
+        obj = weapon;
+    }
 
-	if ( ( obj = get_obj_carry( ch, arg, ch ) ) == NULL )
-	{
-		send_to_char( "Nie masz takiej rzeczy.\n\r", ch );
-		return;
-	}
+    if ( obj->item_type != ITEM_WEAPON )
+    {
+            print_char( ch, "%s nie wygl±da na broñ, poszukaj czego¶ lepszego.\n\r", obj->short_descr );
+            return;
+    }
 
-	if ( obj->item_type != ITEM_WEAPON )
-	{
-		print_char( ch, "%s nie wygl±da na broñ, poszukaj czego¶ lepszego.\n\r", obj->short_descr );
-		return;
-	}
+    if ( obj->value[0] == WEAPON_DAGGER || obj->value[0] == WEAPON_WHIP || obj->value[0] == WEAPON_CLAWS || obj->value[0] == WEAPON_SHORTSWORD )
+    {
+            send_to_char( "Tej broni nie dasz rady z³apaæ obiema rêkami.\n\r", ch );
+            return;
+    }
 
-	if ( obj->value[0] == WEAPON_DAGGER || obj->value[0] == WEAPON_WHIP || obj->value[0] == WEAPON_CLAWS || obj->value[0] == WEAPON_SHORTSWORD )
-	{
-		send_to_char( "Tej broni nie dasz rady z³apaæ obiema rêkami.\n\r", ch );
-		return;
-	}
+    if( IS_WEAPON_STAT( obj, WEAPON_TWO_HANDS ) )
+    {
+            wield_weapon( ch, obj, TRUE );
+            return;
+    }
 
-	if( IS_WEAPON_STAT( obj, WEAPON_TWO_HANDS ) )
-	{
-		wield_weapon( ch, obj, TRUE );
-		return;
-	}
+    SET_BIT( obj->value[4], WEAPON_TWO_HANDS );
+    EXT_SET_BIT( obj->extra_flags, ITEM_DOUBLE_GRIP );
 
-	SET_BIT( obj->value[4], WEAPON_TWO_HANDS );
-	EXT_SET_BIT( obj->extra_flags, ITEM_DOUBLE_GRIP );
+    wield_weapon( ch, obj, TRUE );
 
-	wield_weapon( ch, obj, TRUE );
-
-	//jak nie moze wieldnac to od razu zabiera
-	if( get_eq_char( ch, WEAR_WIELD ) != obj )
-	{
-		REMOVE_BIT( obj->value[4], WEAPON_TWO_HANDS );
-    	EXT_REMOVE_BIT( obj->extra_flags, ITEM_DOUBLE_GRIP );
+    //jak nie moze wieldnac to od razu zabiera
+    if( get_eq_char( ch, WEAR_WIELD ) != obj )
+    {
+            REMOVE_BIT( obj->value[4], WEAPON_TWO_HANDS );
+    EXT_REMOVE_BIT( obj->extra_flags, ITEM_DOUBLE_GRIP );
     }
 
     return;
