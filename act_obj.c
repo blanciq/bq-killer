@@ -8682,7 +8682,8 @@ void do_double_grip( CHAR_DATA *ch, char *argument )
     SET_BIT( obj->value[4], WEAPON_TWO_HANDS );
     EXT_SET_BIT( obj->extra_flags, ITEM_DOUBLE_GRIP );
 
-    wield_weapon( ch, obj, TRUE );
+    if (obj != get_eq_char ( ch, WEAR_WIELD ))
+        wield_weapon( ch, obj, TRUE );
 
     //jak nie moze wieldnac to od razu zabiera
     if( get_eq_char( ch, WEAR_WIELD ) != obj )
