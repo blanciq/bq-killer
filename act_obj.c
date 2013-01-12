@@ -8649,23 +8649,18 @@ void do_double_grip( CHAR_DATA *ch, char *argument )
 
     argument = one_argument( argument, arg );
 
-    if ( arg[ 0 ] == '\0' && ( weapon = get_eq_char ( ch, WEAR_WIELD ) ) == NULL)
+    if ( arg[ 0 ] == '\0' && ( obj = get_eq_char ( ch, WEAR_WIELD ) ) == NULL)
     {
             send_to_char( "Któr± broñ chcesz chwyciæ w obie rêce?\n\r", ch );
             return;
     }
     
-    if ( arg[ 0 ] == '\0' && ( obj = get_obj_carry( ch, arg, ch ) ) == NULL )
+    if( obj == null && ( obj = get_obj_carry( ch, arg, ch ) ) == NULL )
     {
             send_to_char( "Nie masz takiej rzeczy.\n\r", ch );
             return;
     }
     
-    if ( arg[ 0 ] == '\0' )
-    {
-        obj = weapon;
-    }
-
     if ( obj->item_type != ITEM_WEAPON )
     {
             print_char( ch, "%s nie wygl±da na broñ, poszukaj czego¶ lepszego.\n\r", obj->short_descr );
