@@ -8655,7 +8655,7 @@ void do_double_grip( CHAR_DATA *ch, char *argument )
             return;
     }
     
-    if( obj == null && ( obj = get_obj_carry( ch, arg, ch ) ) == NULL )
+    if( obj == NULL && ( obj = get_obj_carry( ch, arg, ch ) ) == NULL )
     {
             send_to_char( "Nie masz takiej rzeczy.\n\r", ch );
             return;
